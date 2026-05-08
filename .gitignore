@@ -1,0 +1,6 @@
+echo ".venv/
+.env
+credentials.json
+reviews.db
+__pycache__/
+*.pyc" > .gitignore

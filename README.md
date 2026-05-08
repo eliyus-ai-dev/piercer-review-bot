@@ -145,19 +145,19 @@ git push
 
 | Главное меню | Создание отзыва |
 |---|---|
-| ![](screenshots/1.png) | ![](screenshots/2.png) |
+| ![](screenshots/1.jpg) | ![](screenshots/2.jpg) |
 
 | Выбор рейтинга | Отправка фото |
 |---|---|
-| ![](screenshots/3.png) | ![](screenshots/4.png) |
+| ![](screenshots/3.jpg) | ![](screenshots/4.jpg) |
 
 | Модерация | Публикация |
 |---|---|
-| ![](screenshots/5.png) | ![](screenshots/6.png) |
+| ![](screenshots/5.jpg) | ![](screenshots/6.jpg) |
 
 | Канал отзывов |
 |---|
-| ![](screenshots/7.png) |
+| ![](screenshots/7.jpg) |
 
 </div>
 
